@@ -1,0 +1,27 @@
+*{
+	font-family: helvetica;
+}
+#container{
+	width:800px;
+	height:800px;
+	display: inline;
+}
+#register{
+	display: inline-block;
+	width:400px;
+}
+#login{
+	display: inline-block;
+	width:400px;
+	vertical-align: top;
+}
+.green{
+	color:green;
+}
+.red{
+	color:red;
+}
+.nav{
+	width:200px;
+	margin-left: 90%;
+}
